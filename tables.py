@@ -69,4 +69,4 @@ errors = {
     11: 'Assembly code cannot be accomodated in memory'
 }
 
-keywords = ['add', 'sub', 'mul', 'or', 'xor', 'and', 'mov', 'rs', 'ls', 'mov', 'div', 'not', 'cmp', 'ld', 'st', 'jmp', 'jlt', 'jgt', 'je', 'hlt', 'addf', 'subf', 'movf', 'R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'FLAGS']
+keywords = ['add', 'sub', 'mul', 'or',  'xor', 'and', 'mov', 'rs', 'ls', 'mov', 'div', 'not', 'cmp', 'ld', 'st', 'jmp', 'jlt', 'jgt', 'je', 'hlt', 'addf', 'subf', 'movf', 'R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'FLAGS']
